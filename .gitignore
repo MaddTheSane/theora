@@ -70,3 +70,6 @@ examples/encoder_example
 examples/player_example
 examples/png2theora
 examples/tiff2theora
+.DS_Store
+project.xcworkspace/
+xcuserdata/
